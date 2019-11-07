@@ -24,7 +24,7 @@ If you’re in the process of searching for a home to buy, here are a few questi
 
 **1\. How is the neighborhood/area?** It’s really important to look in those blue-chip areas where homes will appreciate at a higher clip and result in much higher equity when you eventually sell.
 
-**2\. How are the schools in the area?** We know that here in St. Louis, home prices and values are driven dramatically by the school districts, accreditation, and ratings. One of the best resources you can use is greatschools.org. You should be able to find all the information you might need here.
+**2\. How are the schools in the area?** We know that here in St. Louis, home prices and values are driven dramatically by the school districts, accreditation, and ratings. One of the best resources you can use is **<u><a target="_blank" href="https://www.greatschools.org/">greatschools.org</a></u>**. You should be able to find all the information you might need here.
 
 {% include pullquote.html %}
 
