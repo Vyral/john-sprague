@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays from Us!
-date: 2019-12-16 22:28:34
+date: 2019-12-16 22:28:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,8 +19,7 @@ youtube_code: JuREP0FGNwI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>A message of gratitude and holiday greetings from us at Onward Property Partners.</em></p>
-
+*A message of gratitude and holiday greetings from us at Onward Property Partners.*
 
 Today we want to share our gratitude for all of your love and support. 2019 became one of our best years ever; we helped almost 100 families with their real estate needs. Thank you again for your fellowship.
 
