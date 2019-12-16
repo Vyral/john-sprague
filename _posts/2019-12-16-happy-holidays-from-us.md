@@ -19,7 +19,8 @@ youtube_code: JuREP0FGNwI
 
 {% include youtube.html %}
 
-*A message of gratitude and holiday greetings from us at Onward Property Partners.*
+<p style="text-align: center;"><em>A message of gratitude and holiday greetings from us at Onward Property Partners.</em></p>
+
 
 Today we want to share our gratitude for all of your love and support. 2019 became one of our best years ever; we helped almost 100 families with their real estate needs. Thank you again for your fellowship.
 
