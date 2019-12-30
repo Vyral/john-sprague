@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About the July Slide
-date: 2019-12-30 20:38:21
+date: 2019-12-30 20:38:00
 tags:
   - Real Estate
   - Market Update
