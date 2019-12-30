@@ -18,7 +18,9 @@ youtube_alternate_image: /uploads/john-sprague-what-the-july-slide-means-for-you
 youtube_code: csbU-R5zDc4
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Yes, fewer real estate transactions happen in winter. But there is way more to the story than that.</em></p>
 
 Today I wanted to clear up a myth we have in the industry: Real estate just freezes up in the winter months and nothing sells.&nbsp;
 
