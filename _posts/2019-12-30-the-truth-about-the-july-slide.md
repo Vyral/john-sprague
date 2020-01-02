@@ -20,7 +20,7 @@ youtube_code: csbU-R5zDc4
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Yes, fewer real estate transactions happen in winter. But there is way more to the story than that.</em></p>
+*Yes, fewer real estate transactions happen in winter. However there is way more to the story than that.*
 
 Today I wanted to clear up a myth we have in the industry: Real estate just freezes up in the winter months and nothing sells.&nbsp;
 
@@ -32,6 +32,6 @@ It’s pretty simple: From January to July, the number of transactions goes up, 
 
 Now, in that time frame, the valuations don’t change. If the valuations in each hyperlocal market stay nearly the same all year, then this means a great opportunity for those paying attention.&nbsp;
 
-With the already low inventory, sellers can get a premium on their home. On the flip side, buyers can take advantage of sellers who aren’t paying attention to the market during this time of year and purchase a home for somewhat of a discount.&nbsp;
+With the already low inventory, sellers can get a premium on their home. On the flip side, **buyers can take advantage of sellers who aren’t paying attention** to the market during this time of year and purchase a home for somewhat of a discount.&nbsp;
 
-So whether you’re buying or selling, give me a call at (314)-630-7978 or send me an email; I’d love to learn about about your specific situation and help you meet your real estate goals.&nbsp;<br>&nbsp;
+So whether you’re buying or selling, give me a call at (314)-630-7978 or send me an email; I’d love to learn about your specific situation and help you meet your real estate goals.&nbsp;<br>&nbsp;
