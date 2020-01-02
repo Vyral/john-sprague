@@ -20,7 +20,7 @@ youtube_code: csbU-R5zDc4
 
 {% include youtube.html %}
 
-*Yes, fewer real estate transactions happen in winter. However there is way more to the story than that.*
+<p style="text-align: center;"><em>Yes, fewer real estate transactions happen in winter. However there is way more to the story than that.</em></p>
 
 Today I wanted to clear up a myth we have in the industry: Real estate just freezes up in the winter months and nothing sells.&nbsp;
 
