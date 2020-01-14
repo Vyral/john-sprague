@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/z1cTjLNFNT0'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If you’re in the market to purchase a home in St. Louis, we have some advice to share today. Here are four questions you should be asking about every potential purchase.</em></p>
+
 If you’re in the process of searching for a home to buy, here are a few questions you should be asking about all of the homes you’re considering:
 
 **1\. How is the neighborhood/area?** It’s really important to look in those blue-chip areas where homes will appreciate at a higher clip and result in much higher equity when you eventually sell.
