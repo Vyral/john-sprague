@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/1Moh24RLYj8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I’m sharing four ways buyers can compete against others in our market.</em></p>
+
 Today I wanted to discuss what buyers should be doing to compete in today’s market:
 
 **1\. Get pre-approved.** Getting pre-approved will help save you many thousands of dollars throughout the life of the loan. Your offer will also stand out to the sellers.&nbsp;
