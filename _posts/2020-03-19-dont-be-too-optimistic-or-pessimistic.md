@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/zA8Guh6TP-0'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Don’t be overly optimistic or pessimistic, realize that now is a time of opportunity.</em></p>
+
 In light of the current health scare, I wanted to provide information on what’s going on right now.&nbsp;
 
 Should we be unnecessarily pessimistic about the coronavirus? Should we be stocking our shelves full of toilet paper and hand sanitizer in preparation for a doomsday event? Or should we be overconfident and think that nothing is happening and that it’ll blow over in a day or two? The third camp is likely the ideal option: **Recognize that there could be an impact on our market and on us personally, professionally, and culturally.&nbsp;**
