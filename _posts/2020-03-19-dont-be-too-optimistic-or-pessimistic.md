@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t Be Too Optimistic or Pessimistic
+title: Choices. First We Make the Choices. Then the Choices Make Us!
 date: 2020-03-19 17:53:29
 tags:
   - Real Estate
